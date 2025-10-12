@@ -1,6 +1,6 @@
 # Cloud & DevOps Engineering Portfolio
 
-This repository showcases my hands-on Cloud and DevOps projects, demonstrating skills across migration, infrastructure automation, CI/CD pipelines, containerization, and cloud-native refactoring.
+Welcome to my repository where i showcase my hands-on Cloud and DevOps projects, demonstrate skills across migration, infrastructure automation, CI/CD pipelines, containerization, and cloud-native refactoring.
 
 📎 Explore my Full Portfolio on Notion [`portfolio`](https://anasiezeikenna.notion.site/Work-folio-24505c74585e805fb422ef2442521c01)
 
